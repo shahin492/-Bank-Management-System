@@ -34,5 +34,5 @@ Security: SSL Encryption, OAuth, JWT Authentication
 
 ## High-Level Architecture Diagram
 
-![Bank Management System Architecture](assets/bank_management_system_architecture.png)
+
 
