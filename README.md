@@ -28,3 +28,11 @@ Frontend: React.js / Angular.js
 Backend: Node.js / Java / Python (Django)
 Database: MySQL / PostgreSQL / MongoDB
 Security: SSL Encryption, OAuth, JWT Authentication
+
+
+# Bank Management System
+
+## High-Level Architecture Diagram
+
+![Bank Management System Architecture](assets/bank_management_system_architecture.png)
+
